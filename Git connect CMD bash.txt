@@ -1,0 +1,23 @@
+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
+
+pass-Bandgar@1234567890
+https://github.com/Bandgarsachin555/ABLINDIA.git
+
+Project location---git bash---
+initialization---
+git init--
+git config --global user.name "Sachin"
+git config --global user.email "ad "
+//path
+git remote add origin "git stat"
+git sattus
+// adding to staging area
+git add -A
+//neect to commit
+git commit -m "add all code"
+//pust code over git repository 
+git push origin master 
+
+
+
+//

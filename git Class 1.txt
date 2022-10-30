@@ -1,0 +1,154 @@
+git hybrid url : https://github.com/prafpawar11/augOrangeHRM.git
+
+
+$ git clone https://github.com/prafpawar11/augOrangeHRM.git
+
+
+=============================
+
+
+
+================
+Git:
+--------------------
+
+
+what is git life cycle?
+
+
+--------------------------
+clone: download the whole project in local git repository then import project to working directory
+push	: upload latest code to the remote git repository
+pull	: downloaded latest code from remote git repository
+
+-----------------
+Right Click on Project: go to team ----> share project and create local git repo
+
+--------
+step 1: Automation senior TE
+	
+	create a framework
+	add files to stagging area
+			Right Click on Project: go to team ----> click on Add to index
+	commit code to local git repository
+			Right Click on Project: go to team ----> click on commit and pass the message
+	it will create remote git repository:
+			
+	he will push code to remote git repository
+			Right Click on Project: go to team ---->push 
+
+step2 :
+	Hi Team,
+		i have created new project o github.
+	go ahead and clone this project and start working on functionality
+	
+	git-url: https://github.com/prafpawar11/AugBatchGitDemo.git
+
+
+	Thanks and Regards
+	tester name
+		
+
+step 3:
+	- clone the project in local git repository from remote repository
+	- import project to working directory
+	- add or modifiy files or classes or code ot test script
+	- add files to stagging area
+		right click  on project ---> go to team ---> click on add to index
+	- commit code to local git repositoty
+		right click  on project ---> go to team --->click on commit and pass the message
+	- push code to remote git repository
+			right click  on project ---> go to team --->click push to master branch
+
+
+
+==========================================
+create own branch:
+
+
+add files to local git repository in RahulBranch
+		- add files to stagging area
+		- commit code to local git repository in RahulBranch
+
+
+push code to the remote git RahulBranch
+
+
+=========================================================================
+git bash download for windows
+
+
+https://git-scm.com/downloads
+
+
+
+
+
+
+==================================
+command line operation:
+
+
+1) how to configure ur email id in command line
+	git config --global user.email prafpawar11@gmail.com
+
+
+2) how to create local git repository?
+	git init
+
+
+3) how to check how many files still not added in stagging area
+
+	git status
+
+4) how to add files to stagging area
+	git add  *
+	
+	or
+
+	git add filename
+
+
+5) commit code to local git repository
+	
+	git commit -m "Login Page test cases is added"
+
+6) set git remote repository in command line?
+	git remote add origin url
+
+
+7) how to push code to remote repository
+	 git push -u origin master
+
+======================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

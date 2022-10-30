@@ -1,0 +1,261 @@
+ branchhow to genrate personal access token?
+	click on setting------>>click on developer setting------> click personal access token---click on generate new access token
+	
+
+how to check how many branches?	
+	git branch
+
+how to change the branch
+	git checkout branchname
+
+how to create a branch using command
+	git branch branchname
+
+
+how to merge code to master branch:
+	git merge branchname
+
+	git push -u origin master
+
+==============
+push:	upload the latest code to github
+
+pull: download latest code from github
+
+============================================
+git;
+	it is version control system 
+	git it free open source distrubuted version control system.
+
+	- it keep track of project and files aas they change over a time with the help of different developer or tester.
+	- git help track of changes made in code or inside the projects.
+	- git is local directory
+
+GitHub:
+	git hub is website and cloud based service that helps developer and tester to store and manage their code,
+	as well as track a code .
+	control chnage on thir code.
+	-git is remote working directory.
+	
+----------------------------------------------------------------------------
+
+
+
+
+  234  git --config prafpawar11@gmail.com
+  235  git config --global user.email "prafpawar11@gmail.com"
+  236  git branch
+  237  git config --global user.email "praf002@gmail.com"
+  238  git push -u origin master https://github.com/praf002/newdata.git
+  239  git push -u origin master 'https://github.com/praf002/newdata.git'
+  240  git branch
+  241  git remote add origin https://github.com/praf002/abceed.git
+  242  git remote add origin 'https://github.com/praf002/abceed.git'
+  243  git remote add origin master 'https://github.com/praf002/abceed.git'
+  244  git config --global email.user 'praf002@gmail.com'
+  245  git remote add origin master 'https://github.com/praf002/abceed.git'
+  246  git init
+  247  git remote add origin master
+  248  git origin -u push
+  249  git remote -u push
+  250  git remote -u origin push
+  251  git remote origin -u push
+  252  git remote origin push
+  253  git remote push
+  254  clear
+  255  git push -u origin master
+  256  git push -u origin master
+  257  git push -u origin origin/master
+  258  git remote -v
+  259  git remote add origin https://github.com/praf002/abceed.git
+  260  git remote add origin 'https://github.com/praf002/abceed.git'
+  261  git remote add origin master 'https://github.com/praf002/abceed.git'
+  262  git config --global email.user 'praf002@gmail.com'
+  263  git remote add origin https://github.com/praf002/abceed.git
+  264  git remote add origin 'https://github.com/praf002/abceed.git'
+  265  git remote add origin master 'https://github.com/praf002/abceed.git'
+  266  git init
+  267  git commit -m 'ac'
+  268  git add *
+  269  git add .
+  270  git status
+  271  git commit -m 'abc'
+  272  clear
+  273  git remote add origin https://github.com/praf002/abceed.git
+  274  git push origin master
+  275   git config --global user.email prafpawar11@gmail.com
+  276  git config --global user.email prafpawar11@gmail.com
+  277  git status
+  278  git init
+  279  git status
+  280  git add .classpath
+  281  git status
+  282  git add .project
+  283  git status
+  284  git add *
+  285  git status
+  286  git add *
+  287  git status
+  288  git add .settings/
+  289  git status
+  290  git commit -m "Login Page Test cases is added"
+  291  clear
+  292  git remote add origin https://github.com/prafpawar11/Aug30GitDemo.git
+  293  git push -u origin master
+  294  clear
+  295  git status
+  296  git add *
+  297  git status
+  298  git commit -m "Home Page functionality"
+  299  git push -u origin master
+  300  clear
+  301  git config --global user.email praf002@gmail.com
+  302  git clone https://github.com/prafpawar11/augOrangeHRM.git
+  303  cal
+  304  ls
+  305  clear
+  306  date
+  307  clear
+  308  git config --global user.email prafpawar11@gmail.com
+  309  git branch
+  310  git checkout master
+  311  git checkout AmitBranch
+  312  git checkout master
+  313  clear
+  314  git branch SurajBranch
+  315  git branch
+  316  git checkout AmitBranch
+  317  git status
+  318  git add *
+  319  git status
+  320  clear
+  321  git commit -m "home page class is added"
+  322  git push -u origin AmitBranch
+  323  clear
+  324  git branch
+  325  git checkout SurajBranch
+  326  git status
+  327  git add *
+  328  git status
+  329  clear
+  330  git commit -m "pim page test cases"
+  331  git push -u origin SurajBranch
+  332  git merge master
+  333  git checkout master
+  334  git merge SurajBranch
+  335  clear
+  336  git checkout SurajBranch
+  337  git add *
+  338  git status
+  339  git commit -m "Admin Page"
+  340  git push -u origin SurajBranch
+  341  git merge master
+  342  clear
+  343  git checkout mastert
+  344  git checkout master
+  345  git merge SurajBranch
+  346  git checkout SurajBranch
+  347  git merge master
+  348  git merge SurajBranch
+  349  git checkout SurajBranch
+  350  clear
+  351  git checkout master
+  352  git merge master
+  353  git merge SurajBranch
+  354  git checkout SurajBranch
+  355  git merge master
+  356  git merge SurajBranch
+  357  git checkout master
+  358  git merge SurajBranch
+  359  git checkout SurajBranch
+  360  git status
+  361  clear
+  362  git status
+  363  git add *
+  364  git status
+  365  clear
+  366  git commit -m "Leave page"
+  367  git push -u origin SurajBranch
+  368  git checkout master
+  369  git merge SurajBranch
+  370  clear
+  371  git checkout SurajBranch
+  372  git merge SurajBranch
+  373  git merge master
+  374  history
+  375  clear
+  376  git checkout master
+  377  git merge SurajBranch
+  378  git push -u origin master
+  379  git push
+  380  clear
+  381  git pull
+  382  git merge SurajBranch
+  383  git merge master
+  384  git checkout SurajBranch
+  385  git merge master
+  386  clear
+  387  git checkout master
+  388  git push -u origi master
+  389  git push -u origin master
+  390  git status
+  391  git add *
+  392  git status
+  393  clear
+  394  git status
+  395  git rm -f src/Tutorial1/Demo4.java
+  396  git status
+  397  git checkout SurajBranch
+  398  clear
+  399  git status
+  400  git status
+  401  git add *
+  402  git status
+  403  clear
+  404  git commit -m "google"
+  405  git push -u origin SurajBranch
+  406  git checkout master
+  407  git merge SurajBranch
+  408  git push -u origin master
+  409  clear
+  410  git checkout SurajBranch
+  411  git status
+  412  git add *
+  413  git status
+  414  clear
+  415  git commit -m "Facebook demo"
+  416  git push -u origin SurajBranch
+  417  git checkout master
+  418  git merge SurajBranch
+  419  git push -u origin master
+  420  clear
+  421  git pull
+  422  git checkout AmitBranch
+  423  git pull
+  424  git pull master
+  425  git checkout master
+  426  git pull
+  427  clear
+  428  git clone https://github.com/prafpawar11/Feb2022BatchHybridFramework.git
+  429  ls
+  430  cd Feb2022BatchHybridFramework/
+  431  ls
+  432  clear
+  433  history
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
